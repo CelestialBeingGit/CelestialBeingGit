@@ -12,5 +12,6 @@
 ### Tech Stack
 
 <p align="left">
-    [![My Skills](https://skillicons.dev)](https://skillicons.dev)
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" />
+    img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2AWd45qvGIT-jtmfJ1VQvCdjy-NeU4hA32A&s" />
 </p>
