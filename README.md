@@ -2,10 +2,10 @@
 
 ### Beginner Python programmer
 
-* 🚀 **Currently working on:** [Axioma AI streamer] and also on: [Sora Discord Bot](https://github.com/CelestialBeingGit/Sora-Discord-Bot).
-* 📚 **Deepening knowledge in:** [I have some knowledge of LLM, TTS, and work with AI].
-* 🛠️ **My stack:** [Python, JavaScript].
-* 🎯 **Interests:** [AI, Creation of Intelligent Construct, Cooking].
+*  **Currently working on:** [Axioma AI streamer] and also on: [Sora Discord Bot](https://github.com/CelestialBeingGit/Sora-Discord-Bot).
+*  **Deepening knowledge in:** [I have some knowledge of LLM, TTS, and work with AI].
+*  **My stack:** [Python, JavaScript].
+*  **Interests:** [AI, Creation of Intelligent Construct, Cooking].
 
 ---
 
