@@ -12,8 +12,8 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Python" />
+    ![Python](https://shields.io)
+    ![JavaScript](https://shields.io)
 </p>
 
 ---
@@ -21,6 +21,6 @@
 ### Statistics
 
 <p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
+    <img src="https://vercel.app" alt="GitHub Stats" height="150" />
+    <img src="https://vercel.app" alt="Top Languages" height="150" />
 </p>
