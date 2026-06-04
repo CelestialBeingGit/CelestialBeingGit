@@ -1,3 +1,4 @@
+<img src="https://github.com" width="120" alt="My Profile Photo" style="border-radius: 50%;" />
 # Welcome to my profile, dear friends! You can call me Anton (not my real name)
 
 ### Beginner Python programmer
