@@ -11,7 +11,6 @@
 
 ### Tech Stack
 
-<!-- Раздел с иконками. Замени названия на свои или оставь нужные -->
 <p align="left">
   <img src="https://shields.io" alt="JavaScript" />
   <img src="https://shields.io" alt="Python" />
@@ -21,8 +20,7 @@
 
 ### Statistics
 
-<!-- Замени "YOUR-GITHUB-USERNAME" на свой никнейм на GitHub -->
 <p align="left">
-  <img alt="GitHub Stats" height="150" />
-  <img alt="Top Languages" height="150" />
+  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
+  <img src="https://vercel.app" alt="Top Languages" height="150" />
 </p>
