@@ -12,6 +12,6 @@
 ### Tech Stack
 
 <p align="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="40" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2AWd45qvGIT-jtmfJ1VQvCdjy-NeU4hA32A&s" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="80" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2AWd45qvGIT-jtmfJ1VQvCdjy-NeU4hA32A&s" width="80" />
 </p>
